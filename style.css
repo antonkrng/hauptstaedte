@@ -16,14 +16,22 @@ body {
 header {
     display: flex;
     align-items: center;
+    justify-content: center;
     width: 100%;
     position: relative;
+    box-sizing: border-box;
+    padding: 10px 0;
+    padding-top: calc(10px + env(safe-area-inset-top, 0px));
 }
 
 header h1 {
     position: absolute;
+    top: 50%;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translate(-50%, -50%);
+    margin: 0;
+    font-size: 1.3rem;
+    white-space: nowrap;
 }
 
 header button {
@@ -82,6 +90,10 @@ header button:hover svg {
     flex-direction: column;
     gap: 8px;
     align-items: center;
+}
+
+#antworten input {
+    font-size: 16px;
 }
 
 #feedback {
@@ -185,8 +197,4 @@ footer a {
 
 #karten-quelle a {
     color: inherit;
-}
-
-#karten-container .eigenstaendig {
-    fill: #c0c0c0;
 }

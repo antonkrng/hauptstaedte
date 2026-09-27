@@ -339,11 +339,13 @@ modusEndlosButton.addEventListener("click", function() {
 zurueckQuiztypenButton.addEventListener("click", function() {
     quiztypen.style.display = "none";
     kontinente.style.display = "flex";
+    kartenQuelle.style.display = "none";
 });
 
 zurueckModusauswahlButton.addEventListener("click", function() {
     modusauswahl.style.display = "none";
     quiztypen.style.display = "flex";
+    kartenQuelle.style.display = "none";
 });
 
 function normalisiere(text) {
@@ -525,6 +527,7 @@ menue.addEventListener("click", function() {
     richtigeAntworten = 0;
     falscheAntworten = 0;
     aktualisierePunktestand();
+    kartenQuelle.style.display = "none";
 });
 
 nochmal.addEventListener("click", function() {
@@ -555,6 +558,7 @@ rekordeButton.addEventListener("click", function() {
     ergebnis.style.display = "none";
     rekorduebersicht.style.display = "flex";
     rekordeListe.innerHTML = erstelleRekordHTML();
+    kartenQuelle.style.display = "none";
 });
 
 zurueckRekordeButton.addEventListener("click", function() {
