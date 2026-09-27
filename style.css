@@ -1,0 +1,192 @@
+section {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F5FAFD;
+    font-family: "Trebuchet MS", sans-serif;
+    color: #1E3A5F;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: relative;
+}
+
+header h1 {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+header button {
+    margin-left: 10px;
+    background: none;
+    border: none;
+}
+
+main {
+    margin-top: 50px;
+}
+
+section button {
+    margin: 5px;
+    padding: 10px 30px;
+    width: 200px;
+    border-radius: 8px;
+    background-color: #87CEEB;
+    transition: background-color 0.2s;
+    border: none;
+}
+
+section button:hover {
+    background-color: #2a5062;
+}
+
+header svg {
+    width: 30px;
+    height: 30px;
+    fill: #1E3A5F;
+    transition: fill 0.2s;
+}
+
+header button:hover svg {
+    fill: #5FB8E5;
+}
+
+#quiztypen {
+    display: none;
+}
+
+#quiz {
+    display: none;
+}
+
+#ergebnis {
+    display: none;
+}
+
+#modusauswahl {
+    display: none;
+}
+
+#antworten {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+}
+
+#feedback {
+    font-weight: bold;
+    min-height: 24px;
+}
+
+#feedback.richtig {
+    color: #2E7D32;
+}
+
+#feedback.falsch {
+    color: #C62828;
+}
+
+.zurueck-button {
+    background: none;
+    border: none;
+    width: auto;
+    padding: 8px;
+    margin-top: 20px;
+}
+
+.zurueck-button svg {
+    width: 24px;
+    height: 24px;
+    fill: #1E3A5F;
+    transition: fill 0.2s;
+}
+
+.zurueck-button:hover {
+    background: none;
+}
+
+.zurueck-button:hover svg {
+    fill: #5FB8E5;
+}
+
+#rekorduebersicht {
+    display: none;
+}
+
+#rekorde-liste h3 {
+    margin-bottom: 4px;
+}
+
+#rekorde-liste ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 16px 0;
+}
+
+#karten-container {
+    display: none;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
+
+#karten-container svg {
+    width: 100%;
+    height: auto;
+}
+
+#karten-container .eigenstaendig {
+    fill: #c0c0c0;
+}
+
+#karten-container .markiert {
+    fill: #C62828 !important;
+    opacity: 1;
+}
+
+#karten-container .markierungspunkt {
+fill: #C62828;
+stroke: white;
+stroke-width: 1;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 0.8rem;
+    color: #666;
+    text-align: center;
+    padding: 10px;
+}
+
+footer a {
+    color: inherit;
+}
+
+#karten-quelle {
+    display: none;
+    margin-top: 40px;
+    font-size: 0.8rem;
+    color: #666;
+    text-align: center;
+    padding: 10px;
+}
+
+#karten-quelle a {
+    color: inherit;
+}
+
+#karten-container .eigenstaendig {
+    fill: #c0c0c0;
+}

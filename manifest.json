@@ -1,0 +1,28 @@
+{
+  "name": "Hauptstadt-Quiz",
+  "short_name": "Hauptstadt-Quiz",
+  "description": "Lerne spielerisch die Hauptstädte und Länder der Welt kennen.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#F5FAFD",
+  "theme_color": "#1E3A5F",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

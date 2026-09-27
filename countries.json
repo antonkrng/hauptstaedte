@@ -1,0 +1,1316 @@
+[
+    {
+        "land": "Ägypten",
+        "code": "eg",
+        "hauptstadt": "Kairo",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Algerien",
+        "code": "dz",
+        "hauptstadt": "Algier",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Angola",
+        "code": "ao",
+        "hauptstadt": "Luanda",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Äquatorialguinea",
+        "code": "gq",
+        "hauptstadt": "Malabo",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Äthiopien",
+        "code": "et",
+        "hauptstadt": "Addis Abeba",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Benin",
+        "code": "bj",
+        "hauptstadt": "Porto-Novo",
+        "alternativeAntworten": [
+        "Porto Novo"
+        ],
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Botsuana",
+        "code": "bw",
+        "alternative": "Botswana",
+        "hauptstadt": "Gaborone",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Burkina Faso",
+        "code": "bf",
+        "hauptstadt": "Ouagadougou",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Burundi",
+        "code": "bi",
+        "hauptstadt": "Gitega",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Dschibuti",
+        "code": "dj",
+        "hauptstadt": "Dschibuti",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Elfenbeinküste",
+        "code": "ci",
+        "hauptstadt": "Yamoussoukro",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Eritrea",
+        "code": "er",
+        "hauptstadt": "Asmara",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Eswatini",
+        "code": "sz",
+        "hauptstadt": "Mbabane",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Gabun",
+        "code": "ga",
+        "hauptstadt": "Libreville",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Gambia",
+        "code": "gm",
+        "hauptstadt": "Banjul",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Ghana",
+        "code": "gh",
+        "hauptstadt": "Accra",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Guinea",
+        "code": "gn",
+        "hauptstadt": "Conakry",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Guinea-Bissau",
+        "code": "gw",
+        "alternative": "Guinea Bissau",
+        "hauptstadt": "Bissau",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Kamerun",
+        "code": "cm",
+        "hauptstadt": "Jaunde",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Kap Verde",
+        "code": "cv",
+        "hauptstadt": "Praia",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Kenia",
+        "code": "ke",
+        "hauptstadt": "Nairobi",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Komoren",
+        "code": "km",
+        "hauptstadt": "Moroni",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Demokratische Republik Kongo",
+        "code": "cd",
+        "alternative": "DR Kongo",
+        "hauptstadt": "Kinshasa",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Republik Kongo",
+        "code": "cg",
+        "hauptstadt": "Brazzaville",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Lesotho",
+        "code": "ls",
+        "hauptstadt": "Maseru",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Liberia",
+        "code": "lr",
+        "hauptstadt": "Monrovia",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Libyen",
+        "code": "ly",
+        "hauptstadt": "Tripolis",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Madagaskar",
+        "code": "mg",
+        "hauptstadt": "Antananarivo",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Malawi",
+        "code": "mw",
+        "hauptstadt": "Lilongwe",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Mali",
+        "code": "ml",
+        "hauptstadt": "Bamako",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Marokko",
+        "code": "ma",
+        "hauptstadt": "Rabat",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Mauretanien",
+        "code": "mr",
+        "hauptstadt": "Nouakchott",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Mauritius",
+        "code": "mu",
+        "hauptstadt": "Port Louis",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Mosambik",
+        "code": "mz",
+        "hauptstadt": "Maputo",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Namibia",
+        "code": "na",
+        "hauptstadt": "Windhoek",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Niger",
+        "code": "ne",
+        "hauptstadt": "Niamey",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Nigeria",
+        "code": "ng",
+        "hauptstadt": "Abuja",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Ruanda",
+        "code": "rw",
+        "hauptstadt": "Kigali",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Sambia",
+        "code": "zm",
+        "hauptstadt": "Lusaka",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "São Tomé und Príncipe",
+        "code": "st",
+        "alternative": "Sao Tome und Principe",
+        "hauptstadt": "São Tomé",
+        "alternativeAntworten": [
+            "Sao Tome"
+        ],
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Senegal",
+        "code": "sn",
+        "hauptstadt": "Dakar",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Seychellen",
+        "code": "sc",
+        "hauptstadt": "Victoria",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Sierra Leone",
+        "code": "sl",
+        "hauptstadt": "Freetown",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Simbabwe",
+        "code": "zw",
+        "hauptstadt": "Harare",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Somalia",
+        "code": "so",
+        "hauptstadt": "Mogadischu",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Südafrika",
+        "code": "za",
+        "hauptstadt": [
+            "Pretoria",
+            "Kapstadt",
+            "Bloemfontein"
+        ],
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Südsudan",
+        "code": "ss",
+        "hauptstadt": "Juba",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Sudan",
+        "code": "sd",
+        "hauptstadt": "Khartum",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Tansania",
+        "code": "tz",
+        "hauptstadt": "Dodoma",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Togo",
+        "code": "tg",
+        "hauptstadt": "Lomé",
+        "alternativeAntworten": [
+            "Lome"
+        ],
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Tschad",
+        "code": "td",
+        "hauptstadt": "N'Djamena",
+        "alternativeAntworten": [
+        "N Djamena",
+        "Ndjamena"
+        ],
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Tunesien",
+        "code": "tn",
+        "hauptstadt": "Tunis",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Uganda",
+        "code": "ug",
+        "hauptstadt": "Kampala",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Zentralafrikanische Republik",
+        "code": "cf",
+        "hauptstadt": "Bangui",
+        "kontinent": "Afrika"
+    },
+    {
+        "land": "Afghanistan",
+        "code": "af",
+        "hauptstadt": "Kabul",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Armenien",
+        "code": "am",
+        "hauptstadt": "Jerewan",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Aserbaidschan",
+        "code": "az",
+        "hauptstadt": "Baku",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Bahrain",
+        "code": "bh",
+        "hauptstadt": "Manama",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Bangladesch",
+        "code": "bd",
+        "hauptstadt": "Dhaka",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Bhutan",
+        "code": "bt",
+        "hauptstadt": "Thimphu",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Brunei",
+        "code": "bn",
+        "hauptstadt": "Bandar Seri Begawan",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "China",
+        "code": "cn",
+        "hauptstadt": "Peking",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Georgien",
+        "code": "ge",
+        "hauptstadt": "Tiflis",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Indien",
+        "code": "in",
+        "hauptstadt": "Neu-Delhi",
+        "alternativeAntworten": [
+        "Neu Delhi"
+        ],
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Indonesien",
+        "code": "id",
+        "hauptstadt": "Jakarta",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Irak",
+        "code": "iq",
+        "hauptstadt": "Bagdad",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Iran",
+        "code": "ir",
+        "hauptstadt": "Teheran",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Israel",
+        "code": "il",
+        "hauptstadt": "Jerusalem",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Japan",
+        "code": "jp",
+        "hauptstadt": "Tokio",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Jemen",
+        "code": "ye",
+        "hauptstadt": "Sanaa",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Jordanien",
+        "code": "jo",
+        "hauptstadt": "Amman",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Kambodscha",
+        "code": "kh",
+        "hauptstadt": "Phnom Penh",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Kasachstan",
+        "code": "kz",
+        "hauptstadt": "Astana",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Katar",
+        "code": "qa",
+        "hauptstadt": "Doha",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Kirgisistan",
+        "code": "kg",
+        "alternative": "Kirgistan",
+        "hauptstadt": "Bischkek",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Kuwait",
+        "code": "kw",
+        "hauptstadt": "Kuwait-Stadt",
+        "alternativeAntworten": [
+        "Kuwait Stadt",
+        "Kuwait"
+        ],
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Laos",
+        "code": "la",
+        "hauptstadt": "Vientiane",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Libanon",
+        "code": "lb",
+        "hauptstadt": "Beirut",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Malaysia",
+        "code": "my",
+        "hauptstadt": "Kuala Lumpur",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Malediven",
+        "code": "mv",
+        "hauptstadt": "Malé",
+        "alternativeAntworten": [
+            "Male"
+        ],
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Mongolei",
+        "code": "mn",
+        "hauptstadt": "Ulaanbaatar",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Myanmar",
+        "code": "mm",
+        "hauptstadt": "Naypyidaw",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Nepal",
+        "code": "np",
+        "hauptstadt": "Kathmandu",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Nordkorea",
+        "code": "kp",
+        "hauptstadt": "Pjöngjang",
+        "alternativeAntworten": [
+            "Pjongjang"
+        ],
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Oman",
+        "code": "om",
+        "hauptstadt": "Maskat",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Pakistan",
+        "code": "pk",
+        "hauptstadt": "Islamabad",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Palästina",
+        "code": "ps",
+        "hauptstadt": [
+            "Ramallah",
+            "Ost-Jerusalem"
+        ],
+        "alternativeAntworten": [
+        "Ost Jerusalem"
+        ],
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Philippinen",
+        "code": "ph",
+        "hauptstadt": "Manila",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Saudi-Arabien",
+        "code": "sa",
+        "alternative": "Saudi Arabien",
+        "hauptstadt": "Riad",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Singapur",
+        "code": "sg",
+        "hauptstadt": "Singapur",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Sri Lanka",
+        "code": "lk",
+        "hauptstadt": [
+            "Colombo",
+            "Sri Jayewardenepura Kotte"
+        ],
+        "alternativeAntworten": [
+        "Kotte"
+        ],
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Südkorea",
+        "code": "kr",
+        "hauptstadt": "Seoul",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Syrien",
+        "code": "sy",
+        "hauptstadt": "Damaskus",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Tadschikistan",
+        "code": "tj",
+        "hauptstadt": "Duschanbe",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Taiwan",
+        "code": "tw",
+        "hauptstadt": "Taipeh",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Thailand",
+        "code": "th",
+        "hauptstadt": "Bangkok",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Timor-Leste",
+        "code": "tl",
+        "alternative": "Timor Leste",
+        "hauptstadt": "Dili",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Turkmenistan",
+        "code": "tm",
+        "hauptstadt": "Aşgabat",
+        "alternativeAntworten": [
+            "Asgabat"
+        ],
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Usbekistan",
+        "code": "uz",
+        "hauptstadt": "Taschkent",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Vereinigte Arabische Emirate",
+        "code": "ae",
+        "alternative": "VAE",
+        "hauptstadt": "Abu Dhabi",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Vietnam",
+        "code": "vn",
+        "hauptstadt": "Hanoi",
+        "kontinent": "Asien"
+    },
+    {
+        "land": "Zypern",
+        "code": "cy",
+        "hauptstadt": "Nikosia",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Albanien",
+        "code": "al",
+        "hauptstadt": "Tirana",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Andorra",
+        "code": "ad",
+        "hauptstadt": "Andorra la Vella",
+        "alternativeAntworten": [
+        "Andorra"
+        ],
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Belarus",
+        "code": "by",
+        "hauptstadt": "Minsk",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Belgien",
+        "code": "be",
+        "hauptstadt": "Brüssel",
+        "alternativeAntworten": [
+            "Brussel"
+        ],
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Bosnien und Herzegowina",
+        "code": "ba",
+        "alternative": "Bosnien",
+        "hauptstadt": "Sarajevo",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Bulgarien",
+        "code": "bg",
+        "hauptstadt": "Sofia",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Dänemark",
+        "code": "dk",
+        "hauptstadt": "Kopenhagen",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Deutschland",
+        "code": "de",
+        "hauptstadt": "Berlin",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Estland",
+        "code": "ee",
+        "hauptstadt": "Tallinn",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Finnland",
+        "code": "fi",
+        "hauptstadt": "Helsinki",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Frankreich",
+        "code": "fr",
+        "hauptstadt": "Paris",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Griechenland",
+        "code": "gr",
+        "hauptstadt": "Athen",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Irland",
+        "code": "ie",
+        "hauptstadt": "Dublin",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Island",
+        "code": "is",
+        "hauptstadt": "Reykjavík",
+        "alternativeAntworten": [
+            "Reykjavik"
+        ],
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Italien",
+        "code": "it",
+        "hauptstadt": "Rom",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Kosovo",
+        "code": "xk",
+        "hauptstadt": "Pristina",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Kroatien",
+        "code": "hr",
+        "hauptstadt": "Zagreb",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Lettland",
+        "code": "lv",
+        "hauptstadt": "Riga",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Liechtenstein",
+        "code": "li",
+        "hauptstadt": "Vaduz",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Litauen",
+        "code": "lt",
+        "hauptstadt": "Vilnius",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Luxemburg",
+        "code": "lu",
+        "hauptstadt": "Luxemburg",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Malta",
+        "code": "mt",
+        "hauptstadt": "Valletta",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Moldau",
+        "code": "md",
+        "hauptstadt": "Chișinău",
+        "alternativeAntworten": [
+            "Chisinau"
+        ],
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Monaco",
+        "code": "mc",
+        "hauptstadt": "Monaco",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Montenegro",
+        "code": "me",
+        "hauptstadt": "Podgorica",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Niederlande",
+        "code": "nl",
+        "hauptstadt": "Amsterdam",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Nordmazedonien",
+        "code": "mk",
+        "hauptstadt": "Skopje",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Norwegen",
+        "code": "no",
+        "hauptstadt": "Oslo",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Österreich",
+        "code": "at",
+        "hauptstadt": "Wien",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Polen",
+        "code": "pl",
+        "hauptstadt": "Warschau",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Portugal",
+        "code": "pt",
+        "hauptstadt": "Lissabon",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Rumänien",
+        "code": "ro",
+        "hauptstadt": "Bukarest",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Russland",
+        "code": "ru",
+        "hauptstadt": "Moskau",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "San Marino",
+        "code": "sm",
+        "hauptstadt": "San Marino Città",
+        "alternativeAntworten": [
+        "San Marino Citta",
+        "San Marino"
+        ],
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Schweden",
+        "code": "se",
+        "hauptstadt": "Stockholm",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Schweiz",
+        "code": "ch",
+        "hauptstadt": "Bern",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Serbien",
+        "code": "rs",
+        "hauptstadt": "Belgrad",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Slowakei",
+        "code": "sk",
+        "hauptstadt": "Bratislava",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Slowenien",
+        "code": "si",
+        "hauptstadt": "Ljubljana",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Spanien",
+        "code": "es",
+        "hauptstadt": "Madrid",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Tschechien",
+        "code": "cz",
+        "hauptstadt": "Prag",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Türkei",
+        "code": "tr",
+        "hauptstadt": "Ankara",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Ukraine",
+        "code": "ua",
+        "hauptstadt": "Kiew",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Ungarn",
+        "code": "hu",
+        "hauptstadt": "Budapest",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Vatikanstadt",
+        "code": "va",
+        "alternative": "Vatikan",
+        "hauptstadt": "Vatikanstadt",
+        "alternativeAntworten": [
+        "Vatikan"
+        ],
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Vereinigtes Königreich",
+        "code": "gb",
+        "alternative": "UK",
+        "hauptstadt": "London",
+        "kontinent": "Europa"
+    },
+    {
+        "land": "Antigua und Barbuda",
+        "hauptstadt": "Saint John's",
+        "code": "ag",
+        "alternativeAntworten": [
+        "Saint Johns",
+        "Saint John s"
+    ]   ,
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Bahamas",
+        "code": "bs",
+        "hauptstadt": "Nassau",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Barbados",
+        "code": "bb",
+        "hauptstadt": "Bridgetown",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Belize",
+        "code": "bz",
+        "hauptstadt": "Belmopan",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Costa Rica",
+        "code": "cr",
+        "hauptstadt": "San José",
+        "alternativeAntworten": [
+            "San Jose"
+        ],
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Dominica",
+        "code": "dm",
+        "hauptstadt": "Roseau",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Dominikanische Republik",
+        "code": "do",
+        "hauptstadt": "Santo Domingo",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "El Salvador",
+        "code": "sv",
+        "hauptstadt": "San Salvador",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Grenada",
+        "code": "gd",
+        "hauptstadt": "St. George's",
+        "alternativeAntworten": [
+        "St Georges",
+        "St. Georges",
+        "St George's"
+        ],
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Guatemala",
+        "code": "gt",
+        "hauptstadt": "Guatemala-Stadt",
+        "alternativeAntworten": [
+        "Guatemala Stadt",
+        "Guatemala"
+        ],
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Haiti",
+        "code": "ht",
+        "hauptstadt": "Port-au-Prince",
+        "alternativeAntworten": [
+        "Port au Prince"
+        ],
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Honduras",
+        "code": "hn",
+        "hauptstadt": "Tegucigalpa",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Jamaika",
+        "code": "jm",
+        "hauptstadt": "Kingston",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Kanada",
+        "code": "ca",
+        "hauptstadt": "Ottawa",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Kuba",
+        "code": "cu",
+        "hauptstadt": "Havanna",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Mexiko",
+        "code": "mx",
+        "hauptstadt": "Mexiko-Stadt",
+        "alternativeAntworten": [
+        "Mexiko Stadt",
+        "Mexiko"
+        ],
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Nicaragua",
+        "code": "ni",
+        "hauptstadt": "Managua",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Panama",
+        "code": "pa",
+        "hauptstadt": "Panama-Stadt",
+        "alternativeAntworten": [
+        "Panama Stadt",
+        "Panama"
+        ],
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "St. Kitts und Nevis",
+        "code": "kn",
+        "alternative": "St Kitts und Nevis",
+        "hauptstadt": "Basseterre",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "St. Lucia",
+        "code": "lc",
+        "alternative": "St Lucia",
+        "hauptstadt": "Castries",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "St. Vincent und die Grenadinen",
+        "code": "vc",
+        "alternative": "St Vincent und die Grenadinen",
+        "hauptstadt": "Kingstown",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Trinidad und Tobago",
+        "code": "tt",
+        "hauptstadt": "Port of Spain",
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "USA",
+        "code": "us",
+        "alternative": "Vereinigte Staaten",
+        "hauptstadt": "Washington, D.C.",
+        "alternativeAntworten": [
+        "Washington D.C.",
+        "Washington DC",
+        "Washington"
+        ],
+        "kontinent": "Nordamerika"
+    },
+    {
+        "land": "Argentinien",
+        "code": "ar",
+        "hauptstadt": "Buenos Aires",
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Bolivien",
+        "code": "bo",
+        "hauptstadt": [
+            "Sucre",
+            "La Paz"
+        ],
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Brasilien",
+        "code": "br",
+        "hauptstadt": "Brasília",
+        "alternativeAntworten": [
+            "Brasilia"
+        ],
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Chile",
+        "code": "cl",
+        "hauptstadt": "Santiago de Chile",
+        "alternativeAntworten": [
+            "Santiago"
+        ],
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Ecuador",
+        "code": "ec",
+        "hauptstadt": "Quito",
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Guyana",
+        "code": "gy",
+        "hauptstadt": "Georgetown",
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Kolumbien",
+        "code": "co",
+        "hauptstadt": "Bogotá",
+        "alternativeAntworten": [
+            "Bogota"
+        ],
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Paraguay",
+        "code": "py",
+        "hauptstadt": "Asunción",
+        "alternativeAntworten": [
+            "Asuncion"
+        ],
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Peru",
+        "code": "pe",
+        "hauptstadt": "Lima",
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Suriname",
+        "code": "sr",
+        "hauptstadt": "Paramaribo",
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Uruguay",
+        "code": "uy",
+        "hauptstadt": "Montevideo",
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Venezuela",
+        "code": "ve",
+        "hauptstadt": "Caracas",
+        "kontinent": "Südamerika"
+    },
+    {
+        "land": "Australien",
+        "code": "au",
+        "hauptstadt": "Canberra",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Fidschi",
+        "code": "fj",
+        "hauptstadt": "Suva",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Kiribati",
+        "code": "ki",
+        "hauptstadt": "Tarawa",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Marshallinseln",
+        "code": "mh",
+        "alternative": "Marshall inseln",
+        "hauptstadt": "Majuro",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Mikronesien",
+        "code": "fm",
+        "hauptstadt": "Palikir",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Nauru",
+        "code": "nr",
+        "hauptstadt": "Yaren",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Neuseeland",
+        "code": "nz",
+        "hauptstadt": "Wellington",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Palau",
+        "code": "pw",
+        "hauptstadt": "Ngerulmud",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Papua-Neuguinea",
+        "code": "pg",
+        "alternative": "Papua Neuguinea",
+        "hauptstadt": "Port Moresby",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Salomonen",
+        "code": "sb",
+        "hauptstadt": "Honiara",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Samoa",
+        "code": "ws",
+        "hauptstadt": "Apia",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Tonga",
+        "code": "to",
+        "hauptstadt": "Nukuʻalofa",
+        "alternativeAntworten": [
+        "Nuku alofa",
+        "Nukualofa"
+        ],
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Tuvalu",
+        "code": "tv",
+        "hauptstadt": "Funafuti",
+        "kontinent": "Ozeanien"
+    },
+    {
+        "land": "Vanuatu",
+        "code": "vu",
+        "hauptstadt": "Port Vila",
+        "kontinent": "Ozeanien"
+    }
+]

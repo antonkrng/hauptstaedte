@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hauptstadt-Quiz</title>
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/favicon.ico">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<meta name="theme-color" content="#1E3A5F">
+</head>
+<body>
+
+<header>
+<button id="home">
+<svg width="24" height="24" viewBox="0 0 24 24">
+<path d="M3 11L12 3L21 11V21H14V15H10V21H3V11Z"></path>
+</svg>
+</button>
+
+<button id="rekorde">
+<svg width="24" height="24" viewBox="0 0 24 24">
+    <path d="M3 20H22V22H3V20ZM4 18V11H7V18H4ZM9 18V6H12V18H9ZM14 18V9H17V18H14ZM19 18V3H22V18H19Z"></path>
+</svg>
+</button>
+
+<h1>Hauptstadt-Quiz</h1>
+</header>
+
+<main>
+<section id="kontinente">
+<button id="afrika">Afrika</button>
+<button id="asien">Asien</button>
+<button id="europa">Europa</button>
+<button id="nordamerika">Nordamerika</button>
+<button id="suedamerika">Südamerika</button>
+<button id="ozeanien">Ozeanien</button>
+<button id="welt">Welt</button>
+</section>
+
+<section id="quiztypen">
+<h2 id="kontinent-anzeige"></h2>
+<button id="hauptstadt-quiz">Hauptstadt-Quiz</button>
+<button id="laender-quiz">Länder-Quiz</button>
+<button id="karte">Karte</button>
+<button id="zurueck-quiztypen" class="zurueck-button">
+<svg width="24" height="24" viewBox="0 0 24 24">
+<path d="M15 18L9 12L15 6" fill="none" stroke="currentColor" stroke-width="2"></path>
+</svg>
+</button>
+</section>
+
+<section id="modusauswahl">
+<button id="modus-normal">Normal</button>
+<button id="modus-endlos">Endlos</button>
+<button id="zurueck-modusauswahl" class="zurueck-button">
+<svg width="24" height="24" viewBox="0 0 24 24">
+<path d="M15 18L9 12L15 6" fill="none" stroke="currentColor" stroke-width="2"></path>
+</svg>
+</button>
+</section>
+
+<section id="quiz">
+<div id="karten-container"></div>
+<h2 id="frage">Welche Hauptstadt gehört zu Deutschland?</h2>
+<div id="antworten"></div>
+<p id="feedback"></p>
+<button id="antwort-pruefen">Bestätigen</button>
+<button id="weiter" style="display: none;">Weiter</button>
+<button id="beenden" style="display: none;">Beenden</button>
+<p id="punktestand"></p>
+</section>
+
+<section id="ergebnis">
+<h2 id="ergebnis-text"></h2>
+<button id="nochmal">Nochmal spielen</button>
+<button id="menue">Menü</button>
+</section>
+
+<section id="rekorduebersicht">
+<div id="rekorde-liste"></div>
+<button id="zurueck-rekorde" class="zurueck-button">
+<svg width="24" height="24" viewBox="0 0 24 24">
+<path d="M15 18L9 12L15 6" fill="none" stroke="currentColor" stroke-width="2"></path>
+</svg>
+</button>
+</section>
+</main>
+
+<footer id="karten-quelle">
+<p>Europakarte: <a href="https://commons.wikimedia.org/wiki/File:Blank_map_of_Europe_(with_disputed_regions).svg" target="_blank" rel="noopener">Blank map of Europe (with disputed regions).svg</a>, Wikimedia Commons, lizenziert unter <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a>. Angepasst (viewBox ergänzt).</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
