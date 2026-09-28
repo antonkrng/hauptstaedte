@@ -51,6 +51,8 @@ section button {
     background-color: #87CEEB;
     transition: background-color 0.2s;
     border: none;
+    font-family: inherit;
+    appearance: none;
 }
 
 section button:hover {
@@ -196,4 +198,11 @@ footer a {
 
 #karten-quelle a {
     color: inherit;
+}
+
+@media (max-width: 600px) {
+    header svg {
+        width: 22px;
+        height: 22px;
+    }
 }
