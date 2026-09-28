@@ -62,8 +62,8 @@ section button:hover {
 }
 
 header svg {
-    width: 22px;
-    height: 22px;
+    width: 30px;
+    height: 30px;
     fill: #1E3A5F;
     transition: fill 0.2s;
 }
@@ -200,4 +200,11 @@ footer a {
 
 #karten-quelle a {
     color: inherit;
+}
+
+@media (max-width: 600px) {
+    header svg {
+        width: 22px;
+        height: 22px;
+    }
 }
