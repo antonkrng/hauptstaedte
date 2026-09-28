@@ -50,6 +50,7 @@ section button {
     border-radius: 8px;
     background-color: #87CEEB;
     color: #1E3A5F;
+    -webkit-text-fill-color: #1E3A5F;
     transition: background-color 0.2s;
     border: none;
     font-family: inherit;
