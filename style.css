@@ -8,9 +8,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #F5FAFD;
+    background-color: #FFF9F5;
     font-family: "Trebuchet MS", sans-serif;
-    color: #1E3A5F;
+    color: #4A1F2D;
 }
 
 header {
@@ -56,9 +56,9 @@ section button {
     padding: 10px 30px;
     width: 200px;
     border-radius: 8px;
-    background-color: #87CEEB;
-    color: #1E3A5F;
-    -webkit-text-fill-color: #1E3A5F;
+    background-color: #800020;
+    color: #FFF9F5;
+    -webkit-text-fill-color: #FFF9F5;
     transition: background-color 0.2s;
     border: none;
     font-family: inherit;
@@ -66,18 +66,18 @@ section button {
 }
 
 section button:hover {
-    background-color: #2a5062;
+    background-color: #5C0017;
 }
 
 header svg {
     width: 30px;
     height: 30px;
-    fill: #1E3A5F;
+    fill: #800020;
     transition: fill 0.2s;
 }
 
 header button:hover svg {
-    fill: #5FB8E5;
+    fill: #A63D55;
 }
 
 #quiztypen {
