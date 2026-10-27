@@ -216,3 +216,13 @@ footer a {
         height: 22px;
     }
 }
+
+section .zurueck-button {
+    background: none;
+    color: #4A1F2D;
+    -webkit-text-fill-color: #4A1F2D;
+}
+
+section .zurueck-button svg {
+    fill: #4A1F2D;
+}
