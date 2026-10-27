@@ -132,7 +132,7 @@ header button:hover svg {
 .zurueck-button svg {
     width: 24px;
     height: 24px;
-    fill: #1E3A5F;
+    fill: #4A1F2D;
     transition: fill 0.2s;
 }
 
@@ -141,7 +141,7 @@ header button:hover svg {
 }
 
 .zurueck-button:hover svg {
-    fill: #5FB8E5;
+    fill: #A63D55;
 }
 
 #rekorduebersicht {
